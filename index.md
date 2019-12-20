@@ -1,22 +1,31 @@
-## Resume
+## Portfolio
 
 ---
 
-### Education
+### Marketing propensity modelling
 
-[International Scholarship Chinese Economy - KU Leuven]()
-
----
-[Master of Science in Engineering - KU Leuven]()
-
-Master Electrical Engineering, Major in Embedded Systems and Multimedia
+<img src="images/propensity.png?raw=true"/>
 
 ---
-[Bachelor of Science in Engineering - KU Leuven]()
 
-Bachelor Electrical Engineering, Minor Business Management
+### FIFA 2018 winner predition
+
+<img src="images/matches.png?raw=true"/>
 
 ---
+
+### Flight delays prediction
+
+<img src="images/flights.png?raw=true"/>
+
+---
+
+### Text mining tool
+
+<img src="images/textmining.png?raw=true"/>
+
+---
+
 
 ### Experience
 
@@ -34,6 +43,23 @@ Bachelor Electrical Engineering, Minor Business Management
 - Cloud deployment
 - Relational databases, open-source databases, knowledge databases
 - Scripting, optimisation and automation
+
+---
+
+
+### Education
+
+[International Scholarship Chinese Economy - KU Leuven]()
+
+---
+
+[Master of Science in Engineering - KU Leuven]()
+Master Electrical Engineering, Major in Embedded Systems and Multimedia
+
+---
+
+[Bachelor of Science in Engineering - KU Leuven]()
+Bachelor Electrical Engineering, Minor Business Management
 
 ---
 
