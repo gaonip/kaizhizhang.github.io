@@ -1,11 +1,14 @@
-title: Kai Zhang # your name (or website title) here
-logo: "/images/kai_profile.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-Combining creativity with a high dose of enthusiasm, Kai is an initiative taker with
-a permanent thirst for new challenges. He is always looking forward to gain new
-experiences and skills. His social character allows him to work with all kind of people.
+title: Kai Zhang 
+logo: "/images/kai_profile.jpeg?raw=true"
+description: > 
+  Combining creativity with a high dose of enthusiasm, Kai is an initiative taker with
+  a permanent thirst for new challenges. He is always looking forward to gain new
+  experiences and skills. His social character allows him to work with all kind of people.
+  <br><br>
+  kaizhi.zhang92@gmail.com
+  +32 497 77 88 16
   <br><br>
   <a href="https://www.linkedin.com/in/kaizhang92/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 
