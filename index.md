@@ -31,7 +31,7 @@ Bachelor Electrical Engineering, Minor Business Management
 - Scripting, optimisation and automation
 ---
 
-[ZTE Corporation]]()
+[ZTE Corporation]()
 - 2G, 3G, 4G wireless network data analysis and optimisation
 - Monitor and optimize KPI's
 - Project manager assistant
