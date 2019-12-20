@@ -1,35 +1,49 @@
-## Portfolio
+## Resume
 
 ---
 
-### Category Name 1 
+### Education
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[International Scholarship Chinese Economy - KU Leuven]()
+---
+[Master of Science in Engineering - KU Leuven]()
+Master Electrical Engineering, Major in Embedded Systems and Multimedia
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Bachelor of Science in Engineering - KU Leuven]()
+Bachelor Electrical Engineering, Minor Business Management
 ---
 
-### Category Name 2
+### Experience
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Data Engineer]()
+- Generate business value using data
+- Architect, build and deploy data pipelines and datalakes to process large amounts of data
+- Set up highly scalable cloud-based infrastructure
+---
 
+[Data Scientist]()
+- Data scientist, ML engineer (Python)
+- NLP & Text mining
+- Deployment full-stack IT architectures
+- Cloud deployment
+- Relational databases, open-source databases, knowledge databases
+- Scripting, optimisation and automation
+---
+
+[ZTE Corporation]]()
+- 2G, 3G, 4G wireless network data analysis and optimisation
+- Monitor and optimize KPI's
+- Project manager assistant
+- Lead a small team of radio engineers
+- Weekly progress reporting to management.
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+### Skills
+Python, Scala
+AWS, GCP
+Terraform
+Linux, Docker, Kubernetes
+SQL, Tableau, ElasticStack, Google Analytics,
+Perl, VBA, HTML/CSS
