@@ -1,4 +1,4 @@
-## Welcome to Kai Zhang's resume
+## Welcome to Kai Zhang's website
 
 Hey all,
 
