@@ -2,6 +2,12 @@
 
 ---
 
+### Personal recommendations
+
+<img src="images/explorer.png?raw=true"/>
+
+---
+
 ### Marketing propensity modelling
 
 <img src="images/propensity.png?raw=true"/>
@@ -30,6 +36,7 @@
 ### Experience
 
 [ML Engineer]()
+<br/><br/>
 Project at DPG Media
 Developing real-time personal recommenders and profile services for multiple business use cases at large scale. 
 Architecting and building data platforms, data lakes and applications to leverage large amounts and various types of data.
@@ -37,6 +44,7 @@ Architecting and building data platforms, data lakes and applications to leverag
 ---
 
 [Data Scientist]()
+<br/><br/>
 Project at Jonhson & Johnson Data Science
 Data scientist and ML engineer, responsible for developing healthcare solutions with NLP, text-mining and search tools. 
 Building IT architectures and data pipelines in the cloud for a large European big data initiative.
