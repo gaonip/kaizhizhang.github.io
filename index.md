@@ -29,20 +29,17 @@
 
 ### Experience
 
-[Data Engineer]()
-- Generate business value using data
-- Architect, build and deploy data pipelines and datalakes to process large amounts of data
-- Set up highly scalable cloud-based infrastructure
+[ML Engineer]()
+Project at DPG Media
+Developing real-time personal recommenders and profile services for multiple business use cases at large scale. 
+Architecting and building data platforms, data lakes and applications to leverage large amounts and various types of data.
 
 ---
 
 [Data Scientist]()
-- Data scientist, ML engineer (Python)
-- NLP & Text mining
-- Deployment full-stack IT architectures
-- Cloud deployment
-- Relational databases, open-source databases, knowledge databases
-- Scripting, optimisation and automation
+Project at Jonhson & Johnson Data Science
+Data scientist and ML engineer, responsible for developing healthcare solutions with NLP, text-mining and search tools. 
+Building IT architectures and data pipelines in the cloud for a large European big data initiative.
 
 ---
 
@@ -64,11 +61,21 @@ Bachelor Electrical Engineering, Minor Business Management
 ---
 
 ### Skills
-- Python, Scala
-- AWS, GCP
-- Terraform
-- Linux, Docker, Kubernetes
-- SQL, Tableau, ElasticStack, Google Analytics,
-- Perl, VBA, HTML/CSS
+- Python (Flask, Scikit-Learn, Tensorflow,..), Scala (Spark), JavaScript (Vue.js) 
+- Linux, Docker, Kubernetes, CI/CD, Airflow
+- AWS, GCP, Terraform
+- SQL, SPARQL, NoSQL
+- Tableau, Power BI, Looker, Spotfire
+- ElasticStack, Kafka, Snowplow, Google Analytics 
+- VBA, Excel, Matlab, Perl, Java, C
+
+---
+
+### Certificates
+- AWS Certified Data Analytics - Specialty (AWS)
+- AWS Certified Solution Architect - Associate (AWS)
+- Machine Learning with Tensorflow on GCP Specialization ( Coursera) Data Engineering with GCP Specialization (Coursera)
+- Machine Learning by Andrew Ng, Stanford (Coursera)
+- Data Scientist (Datacamp)
 
 ---
