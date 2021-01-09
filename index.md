@@ -4,31 +4,31 @@
 
 ### Personal recommendations
 
-<img src="images/explorer.png?raw=true"/>
+<img src="images/explorer.webp"/>
 
 ---
 
 ### Marketing propensity modelling
 
-<img src="images/propensity.png?raw=true"/>
+<img src="images/propensity.webp?raw=true"/>
 
 ---
 
 ### FIFA 2018 winner predition
 
-<img src="images/matches.png?raw=true"/>
+<img src="images/matches.webp?raw=true"/>
 
 ---
 
 ### Flight delays prediction
 
-<img src="images/flights.png?raw=true"/>
+<img src="images/flights.webp?raw=true"/>
 
 ---
 
 ### Text mining tool
 
-<img src="images/textmining.png?raw=true"/>
+<img src="images/textmining.webp?raw=true"/>
 
 ---
 
