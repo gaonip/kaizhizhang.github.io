@@ -2,6 +2,12 @@
 
 ---
 
+### Demo NFT marketplace
+
+<img src="images/marketplace.webp?raw=true"/>
+
+---
+
 ### Personal recommendations
 
 <img src="images/explorer.webp"/>
@@ -35,7 +41,15 @@
 
 ### Experience
 
-[ML Engineer]()
+[Solutions Architect]()
+<br/><br/>
+Solutions Architect at Amazon Web Services (AWS)
+Enable digital transformation and customer success by designing and building scalable, resilient and secure applications on AWS.
+Focus on deep technical expertise in analytics, machine learning, serverless.
+Knowledge sharing through webinars, technical trainings and demos
+---
+
+[ML / Data Engineer]()
 <br/><br/>
 Project at DPG Media
 Developing real-time personal recommenders and profile services for multiple business use cases at large scale. 
@@ -51,6 +65,13 @@ Building IT architectures and data pipelines in the cloud for a large European b
 
 ---
 
+[Network Optimization Engineer / Project Manager]()
+<br/><br/>
+Project at Jonhson & Johnson Data Science
+Data scientist and ML engineer, responsible for developing healthcare solutions with NLP, text-mining and search tools. 
+Building IT architectures and data pipelines in the cloud for a large European big data initiative.
+
+---
 
 ### Education
 
@@ -69,8 +90,9 @@ Bachelor Electrical Engineering, Minor Business Management
 ---
 
 ### Skills
-- Python (Flask, Scikit-Learn, Tensorflow,..), Scala (Spark), JavaScript (Vue.js) 
-- Linux, Docker, Kubernetes, CI/CD, Airflow
+- Python (Flask, SKLearn, Tensorflow,..), Scala (Spark), JavaScript (Vue.js, Ethers.js,...) 
+- Solidity contracts
+- Linux, Docker, K8s, CI/CD, Airflow
 - AWS, GCP, Terraform
 - SQL, SPARQL, NoSQL
 - Tableau, Power BI, Looker, Spotfire
