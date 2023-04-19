@@ -3,14 +3,22 @@
 ---
 
 ### Gasless Service
-An innovative custom gasless solution based on Cosmos SDK's authz module, that works smart contract interactions.
+An innovative custom gasless solution based on Cosmos SDK's authz module, which allows DApps to onboard new users without any gas complications.
 
 <img src="images/gasless.webp?raw=true"/>
 
 ---
 
-### Cronos Documentation
-Full revamp, design and authoring of the Cronos Layer 1 Blockchain.
+### Blockchain Gas Parameter Analysis
+On-chain analysis to understand the impact of different blockchain settings and determine optimal gas settings using data-driven decision making.
+
+<img src="images/gasless.webp?raw=true"/>
+
+---
+
+
+### Cronos Blockchain Documentation
+Full revamp, design and authoring of the Cronos Layer 1 Blockchain using gitbook.
 
 <img src="images/cronos.webp?raw=true"/>
 
