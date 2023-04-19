@@ -3,42 +3,49 @@
 ---
 
 ### Gasless Service
+An innovative custom gasless solution based on Cosmos SDK's authz module, that works smart contract interactions.
 
 <img src="images/gasless.webp?raw=true"/>
 
 ---
 
-### NFT Marketplace
+### Cronos Documentation
+Full revamp, design and authoring of the Cronos Layer 1 Blockchain.
 
-<img src="images/marketplace.webp?raw=true"/>
+<img src="images/cronos.webp?raw=true"/>
 
 ---
 
 ### Personal Recommendation engine
+A personalized news recommendation engine based on user profiles, article topics and past reading behavior.
 
 <img src="images/explorer.webp"/>
 
 ---
 
 ### Marketing Propensity Model
+A marketing ML model for a large Belgian Bank that aims to engage customers with the greatest propensity.
 
 <img src="images/propensity.webp?raw=true"/>
 
 ---
 
 ### FIFA 2018 Predition Model
+Winner of the 2018 FiFa WC prediction model inside the company.
 
 <img src="images/matches.webp?raw=true"/>
 
 ---
 
 ### Flight Delays Prediction Model
+A prediction of flight delays using python dask handling 100's of GB's of data.
 
 <img src="images/flights.webp?raw=true"/>
 
 ---
 
 ### Text Mining Tool for Disease Research
+An innovative text mining tool using word embeddings that helps Alzheimer researchers to find Alzheimer related features much easier than before. 
 
 <img src="images/textmining.webp?raw=true"/>
 
