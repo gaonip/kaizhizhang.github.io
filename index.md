@@ -12,7 +12,7 @@ An innovative custom gasless solution based on Cosmos SDK's authz module, which 
 ### Blockchain Gas Parameter Analysis
 On-chain analysis to understand the impact of different blockchain settings and determine optimal gas settings using data-driven decision making.
 
-<img src="images/gasless.webp?raw=true"/>
+<img src="images/gas.webp?raw=true"/>
 
 ---
 
